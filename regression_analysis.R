@@ -15,6 +15,8 @@ install.packages("MPV")
 library(MPV)
 
 data("table.b11")
+
+
 # 建立回归模型
 
 # 使用lm()函数建立回归模型
